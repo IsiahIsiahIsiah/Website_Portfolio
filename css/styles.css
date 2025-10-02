@@ -10,31 +10,45 @@ body {
 }
 
 p {
-    color: #666;
+    color: #000;
 }
 
 
 /* Headers */
-h2 {
+h1 {
     color: #333;
+    font-size: 200%;
     padding-left: auto;
     padding-right: auto;
     text-align: center;
 }
 
-h3 {
+h2 {
+    font-size: 150%;
     color: #000;
     text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 120%;
 }
 
 /* Adobe Suites Section */
 #adobeSuites {
     background-color: rgb(152, 176, 207);
     padding: 10px
-}  
+}
+
+.adobeApps p {
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.5;
+}
 
 .adobeApps {
-    
+    padding: 10px;
+    background-color: rgb(177, 187, 201);
 }
 
 
