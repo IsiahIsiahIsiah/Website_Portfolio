@@ -1,3 +1,4 @@
+/* All Elements */
 * {
     display: block;
 }
@@ -8,6 +9,12 @@ body {
     padding: 0;
 }
 
+p {
+    color: #666;
+}
+
+
+/* Headers */
 h2 {
     color: #333;
     padding-left: auto;
@@ -20,21 +27,25 @@ h3 {
     text-align: center;
 }
 
-.disclaimer {
-    color: #666;
-    font-size: 70%;
-}
-
+/* Adobe Suites Section */
 #adobeSuites {
     background-color: rgb(152, 176, 207);
     padding: 10px
 }  
 
-p {
+.adobeApps {
+    
+}
+
+
+/* Footer */
+.disclaimer {
     color: #666;
+    font-size: 70%;
 }
 
 footer {
     padding: 10px;
     background-color: rgb(197, 197, 197);
 }
+
