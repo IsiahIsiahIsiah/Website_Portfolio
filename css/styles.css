@@ -3,6 +3,7 @@
     display: block;
 }
 title {
+    display: none;
 }
 
 body {
@@ -38,7 +39,7 @@ h3 {
 
 /* Adobe Suites Section */
 #adobeSuites {
-    background-color: rgb(253, 130, 15);
+    background-color: rgb(124, 144, 148);
     padding: 10px
 }
 
