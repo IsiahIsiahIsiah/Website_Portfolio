@@ -2,6 +2,8 @@
 * {
     display: block;
 }
+title {
+}
 
 body {
     font-family: Roboto, sans-serif;
@@ -36,7 +38,7 @@ h3 {
 
 /* Adobe Suites Section */
 #adobeSuites {
-    background-color: rgb(152, 176, 207);
+    background-color: rgb(253, 130, 15);
     padding: 10px
 }
 
