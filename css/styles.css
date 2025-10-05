@@ -37,6 +37,33 @@ h3 {
     font-size: 120%;
 }
 
+/* About Me Section */
+#aboutMe {
+    background-color: rgb(124, 144, 148);
+    padding: 10px;
+}
+
+.profilePic {
+    display: flex;
+    flex-direction: row;
+}
+
+.profilePic img {
+    width: 200px;
+    height: auto;
+    border-radius: 50%;
+    margin: 10px;
+    float: left;
+}
+
+.profilePic p {
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    line-height: 1.5;
+}
+
+
 /* Adobe Suites Section */
 #adobeSuites {
     background-color: rgb(124, 144, 148);
