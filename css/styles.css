@@ -88,10 +88,18 @@ h3 {
     background-color: rgb(177, 187, 201);
 }
 
+
+
 #photography {
     background-color: rgb(124, 144, 148);
     padding: 10px;
     text-align: center;
+}
+
+.imageGallary {
+    color: rgb(80, 80, 80);
+    text-align: center;
+    line-height: 1.5;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -103,6 +111,7 @@ h3 {
     height: auto;
     border-radius: 1%;
     margin: 10px;
+    padding: 10px;
 }
 
 /* Footer */
