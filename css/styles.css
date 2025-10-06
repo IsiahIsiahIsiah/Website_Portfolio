@@ -132,7 +132,7 @@ h3 {
 .image-container {
     position: relative;
     display: inline-block;
-    width: 300px; /* or whatever width you want */
+    width: auto;
   }
   
   .image-container img {
@@ -142,13 +142,8 @@ h3 {
   
   .overlay-text {
     position: absolute;
-    left: 0;
-    right: 0;
-    top: 0;
-    bottom: 0;
     width: 100%;
     height: 100%;
-  
     background-color: rgba(0, 0, 0, 0.6); /* semi-transparent black */
     color: white;
     display: flex;
